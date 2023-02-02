@@ -1,0 +1,14 @@
+{
+  "name": "nodejsprojet",
+  "version": "1.0.0",
+  "description": "prmeier projet backend en nodeJs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "ahmedBenGuebila",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
